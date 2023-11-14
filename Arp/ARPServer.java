@@ -14,6 +14,6 @@ class ARPServer {
 
     private static String getMacAddress(String ip) throws Exception {
         // Look up ARP cache for MAC address
-        return "00:11:22:33:44:55"; // Replace with actual MAC address
+        return "00:B0:D0:63:C2:26"; // Replace with actual MAC address
     }
 }
